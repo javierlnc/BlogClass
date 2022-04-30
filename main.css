@@ -16,6 +16,30 @@ main .main-container{
     border: 2px solid #CCF244;
     padding: 30px;
 }
+.main-header{
+    width: 100%;
+    height:100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.main-header h2{
+    color: #CCF244;
+    font-size: 2rem;
+    letter-spacing: 0.6rem;
+    font-weight: 700;
+}
+.main-header ul{
+    display: flex;
+    list-style: none;
+}
+.main-header a{
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 1.3rem;
+    color: #EDF250;
+}
 .main-container h1{
     text-align: center;
     color: #EDF250;
