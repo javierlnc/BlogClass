@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+    font-family: 'Poppins', sans-serif;
+    color: #F2F2F2;
+    background-color: #0D0D0D;
+}
+main .main-container{
+    width: 80%;
+    min-height: 100px;
+    margin: 0 auto;
+    border: 2px solid #CCF244;
+    padding: 30px;
+}
+.main-container h1{
+    text-align: center;
+    color: #EDF250;
+    font-size: 2.4rem;
+}
+.main-container p{
+    font-size: 1.8rem;
+}
