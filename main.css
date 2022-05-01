@@ -6,14 +6,14 @@
 html{
     font-size: 62.5%;
     font-family: 'Poppins', sans-serif;
-    color: #F2F2F2;
-    background-color: #0D0D0D;
+    color: #FFFFFE;
+    background-color: #252525;
 }
 main .main-container{
     width: 80%;
     min-height: 100px;
     margin: 0 auto;
-    border: 2px solid #CCF244;
+    border: 2px solid #f0b90b;
     padding: 30px;
 }
 .main-header{
