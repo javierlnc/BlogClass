@@ -31,8 +31,16 @@ main .main-container{
     font-weight: 700;
 }
 .main-header ul{
-    display: flex;
+    display: none;
     list-style: none;
+}
+.menuIcon{
+    width: 30px;
+    height: 30px;
+    background-image: url("./assets/icons/menuIcon2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 .main-header a{
     text-decoration: none;
