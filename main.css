@@ -56,3 +56,14 @@ main .main-container{
 .main-container p{
     font-size: 1.8rem;
 }
+
+
+@media (min-width: 426px){
+    .menuIcon{
+        display: none;
+    }
+    .main-header ul{
+        display: flex;
+    }
+
+}
